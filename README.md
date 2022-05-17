@@ -1,0 +1,2 @@
+# BalssAktaribaNoDemografiskajiemDatiem-
+Created with CodeSandbox
