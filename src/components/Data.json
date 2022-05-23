@@ -1,0 +1,32 @@
+{
+  "sieviete_18_24": {
+    "balss": "vidēja vīrieša"
+  },
+  "sieviete_25_34": {
+    "balss": "vidēja vīrieša"
+  },
+  "sieviete_35_44": {
+    "balss": "vidēja sieviešu"
+  },
+  "sieviete_45_54": {
+    "balss": "vidēja sieviešu"
+  },
+  "sieviete_55": {
+    "balss": "augsta sieviešu"
+  },
+  "vīrietis_18_24": {
+    "balss": "vidēja vīrieša"
+  },
+  "vīrietis_25_34": {
+    "balss": "vidēja vīrieša"
+  },
+  "vīrietis_35_44": {
+    "balss": "augsta sieviešu"
+  },
+  "vīrietis_45_54": {
+    "balss": "augsta sieviešu"
+  },
+  "vīrietis_55": {
+    "balss": "vidēja sieviešu"
+  }
+}
